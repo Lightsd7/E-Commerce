@@ -10,9 +10,9 @@ _tecnologias utilizadas:_
 - MySQL 
 
 # Tasks: 
-- [X] Implementar a estrutura de produtos - rotas, views e controllers.
-- [ ] Implementar validações de entrada de dados.
-- [ ] Implementar carrinho de compras.
-- [ ] Desenvolver identidade visual das views.
+- [X] Implementar a estrutura de produtos - rotas, views e controllers. :heavy_check_mark:
+- [ ] Implementar validações de entrada de dados. :warning:
+- [ ] Implementar carrinho de compras. 
+- [ ] Desenvolver identidade visual das views. 
 
 ![spring](https://spring.io/images/OG-Spring.png)
