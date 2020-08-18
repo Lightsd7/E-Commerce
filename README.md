@@ -10,7 +10,7 @@ _tecnologias utilizadas:_
 - MySQL 
 
 # Tasks: 
-- [ ] Implementar a estrutura de produtos - rotas, views e controllers.
+- [X] Implementar a estrutura de produtos - rotas, views e controllers.
 - [ ] Implementar validações de entrada de dados.
 - [ ] Implementar carrinho de compras.
 - [ ] Desenvolver identidade visual das views.
