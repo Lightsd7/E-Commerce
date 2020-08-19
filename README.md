@@ -11,8 +11,8 @@ _tecnologias utilizadas:_
 
 # Tasks: 
 - [X] Implementar a estrutura de produtos - rotas, views e controllers. :heavy_check_mark:
-- [ ] Implementar validações de entrada de dados. :warning:
-- [ ] Implementar carrinho de compras. 
+- [X] Implementar validações de entrada de dados. :heavy_check_mark:
+- [ ] Implementar carrinho de compras. :warning:
 - [ ] Desenvolver identidade visual das views. 
 
 ![spring](https://spring.io/images/OG-Spring.png)
